@@ -1,0 +1,8 @@
+Code: 4 4 1 1 
+Guess 1: 1 5 2 4 
+Guess 2: 3 3 3 2 
+Guess 3: 2 2 1 3 
+Guess 4: 5 0 1 0 
+Guess 5: 0 1 1 1 
+Guess 6: 4 4 1 1 
+CodeBreaker wins!

@@ -1,0 +1,2 @@
+javac br/usp/ime/liamf/*.java
+jar cvfe mastermind.jar br.usp.ime.liamf.Main br/
